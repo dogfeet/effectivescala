@@ -1,7 +1,7 @@
 <a href="http://github.com/twitter/effectivescala"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_left_green_007200.png" alt="Fork me on GitHub"></a>
 
 <h1 class="header">Effective Scala</h1>
-<address>Marius Eriksen, Twitter Inc.<br />marius@twitter.com (<a href="http://twitter.com/marius">@marius</a>)</address>
+<address>Marius Eriksen, Twitter Inc.<br />marius@twitter.com (<a href="http://twitter.com/marius">@marius</a>)</address><br /><br />[translated by Sean Lee(<a href="http://github.com/lethee">@lethee</a>)]</address>
 
 <h2>Table of Contents</h2>
 
@@ -12,9 +12,10 @@
 <a href="index-ja.html">日本語</a>
 <a href="index-ru.html">Русский</a>
 <a href="index-cn.html">简体中文</a>
+<a href="index-cn.html">한국어</a>
 
 
-## Introduction
+## 소개
 
 [Scala][Scala] is one of the main application programming languages
 used at Twitter. Much of our infrastructure is written in Scala and
