@@ -15,7 +15,7 @@ index-ru.html: header-ru.html.inc effectivescala-ru.html footer-ru.html.inc
 index-cn.html: header-cn.html.inc effectivescala-cn.html footer-cn.html.inc
 	cat $^ > $@
 
-index-ko.html: header.html.inc effectivescala-ko.html footer.html.inc
+index-ko.html: header.html.inc effectivescala-ko.html footer-ko.html.inc
 	cat $^ > $@
 
 pub: all
