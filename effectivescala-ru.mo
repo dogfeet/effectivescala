@@ -12,7 +12,7 @@
 <a href="index.html">English</a>
 <a href="index-ja.html">日本語</a>
 <a href="index-cn.html">简体中文</a>
-<a href="index-cn.html">한국어</a>
+<a href="index-ko.html">한국어</a>
 
 ## Введение
 
